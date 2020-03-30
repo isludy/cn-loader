@@ -1,0 +1,5 @@
+变量：哦嚯 = "哦嚯，这是test-2"
+导出：哦嚯
+
+注释：我们甚至可以js和中文混写
+document.body.innerHTML = '<h1>cn-loader 是无敌的</h1>'
